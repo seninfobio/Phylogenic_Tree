@@ -7,22 +7,9 @@
 
 ```bash
 
-
-
 #!/bin/bash
 
 set -e
-
-##############################################################################
-# The following  script was designed for a specific working directory.
-# For reproduction, please proceed to an adaptation of your working directory.
-##############################################################################
-
-# Created on Saturday November 28 2020.
-
-# Author: Yedomon Ange Bovys Zoclanclounon | National Institute of Agricultural Science | Rep. Korea
-
-# Version:1
 
 cd /NABIC/HOME/yedomon1/senthil/04_tree_construction/greaterthan500bp
 
