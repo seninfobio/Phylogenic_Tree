@@ -39,3 +39,12 @@ $ /usr/bin/time -o out.time.txt -v bash run.sh &> log &
 
 ```
 
+
+# edit with online tools with the format of *mafft.trimal.treefile* 
+
+[iTOL interactive tree of life](https://itol.embl.de/)
+
+step1: login: senthil83
+step2: upload tree file said above format.
+
+
