@@ -44,7 +44,8 @@ $ /usr/bin/time -o out.time.txt -v bash run.sh &> log &
 
 [iTOL interactive tree of life](https://itol.embl.de/)
 
-step1: login: senthil83
-step2: upload tree file said above format.
+- step1: login: senthil83
+
+- step2: upload tree file said above format.
 
 
