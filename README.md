@@ -4,6 +4,7 @@
 
 
 # To construct phylogenetic tree 
+**iqtree_env** in conda
 
 ```bash
 
