@@ -63,7 +63,6 @@ $ /usr/bin/time -o out.time.txt -v bash run.sh &> log &
 - login and upload the newick format and view circular tree format
 - check the leaf and activate the bootstrap value to show in the tree
 - choose the annotation (copy the code from the **help** and save as tablimited file for the labels annotation, mention the color for each group classification)
-- 
 
 
 
