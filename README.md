@@ -49,3 +49,23 @@ $ /usr/bin/time -o out.time.txt -v bash run.sh &> log &
 - step2: upload tree file said above format.
 
 
+
+
+[IQtree online platform to run Bootstrap value](http://iqtree.cibiv.univie.ac.at/)
+
+- upload **.mafft file from IQtree** and mention mail id and submit job
+- server upload and check working progress (Running!)
+- after success the results and view the **full result** copy the newick format to notepad and save.
+
+#Evolview online annotation#
+[Evolview](https://www.evolgenius.info/evolview/#login)##
+- login and upload the newick format and view circular tree format
+- check the leaf and activate the bootstrap value to show in the tree
+- choose the annotation (copy the code from the **help** and save as tablimited file for the labels annotation, mention the color for each group classification)
+- 
+
+
+
+
+
+
